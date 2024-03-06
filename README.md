@@ -8,6 +8,7 @@
 분야 2 : 유선 네트워크 장비의 신속한 조치를 위한 경보 유형 분류
 
 -about project
+
 Field 1: Prediction of Population Density Using Statistical Data from Wireless Base Station Equipment
 Field 2: Classification of Alarm Types for Prompt Action on Wired Network Equipment 
 
